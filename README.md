@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently intern at Huawei
-- 🌱 I’m currently learning Node.js
+
+- 🌱 I’m currently learning Java Spring Boot and React.js
 - 📫 How to reach me:gulbike.aydin199936@gmail.com
 
 
